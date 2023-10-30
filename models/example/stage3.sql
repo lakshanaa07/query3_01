@@ -5,5 +5,6 @@ A AS(
 SELECT 
   id, 
   variable 
-  FROM Data)
+FROM Data
+)
 SELECT * FROM A
