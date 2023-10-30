@@ -6,7 +6,6 @@ SELECT
   id, 
   year, 
   industry_name_NZSIOC, 
-  variable, 
   value
 FROM Data
 )
