@@ -9,4 +9,5 @@ From
 Left join
     {{ref('stage4') }} as t2
 On t1.id=t2.id
+    )
 Select * from Inter
