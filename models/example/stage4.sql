@@ -8,5 +8,6 @@ SELECT
   industry_name_NZSIOC, 
   variable, 
   value
-FROM Data)
+FROM Data
+)
 SELECT * FROM B
